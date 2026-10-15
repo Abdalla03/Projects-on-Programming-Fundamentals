@@ -7,7 +7,7 @@ A collection of small projects built while learning the fundamentals of programm
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Student Grade Calculator](./Student-Grade-Calculator) | Calculates student grades (C++, Visual Studio project). |
-| 2 | Number Guessing Game | Guess the secret number game. |
+| 2 | [Number Guessing Game](./Number-Guessing-Game) | Guess the secret number game (C++, Visual Studio project). |
 | 3 | To-Do List Manager | Manage a simple list of tasks. |
 | 4 | Rock Paper Scissors Game | Classic Rock-Paper-Scissors against the computer. |
 
